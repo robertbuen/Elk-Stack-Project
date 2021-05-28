@@ -2,7 +2,7 @@
 
 The files that are provided in this repo were used to configure the network that is shown in the image below.
 
-<img src = "Diagrams/network.PNG">
+<img src = "Diagrams/network.png">
 
 All of the files were tested and utilized in order to create a live ELK deployment on Azure and by doing so, they can recreate the network above. Filebeat was installed and used as a portion of the playbook file. The configuration of the filebeat playbook was also part of the process.
 
