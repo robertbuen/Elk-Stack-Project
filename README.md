@@ -1,4 +1,4 @@
-# Project-1
+# Elk-Stack-Project
 
 The files that are provided in this repo were used to configure the network that is shown in the image below.
 
